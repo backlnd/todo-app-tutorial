@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Welcome to It Girls Todo App Tutorial!
+
+Visit our [Youtube Channel](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH38RqQ) to watch the video which goes with this code.
+
 ## Available Scripts
 
 In the project directory, you can run:
