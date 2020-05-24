@@ -2,71 +2,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Welcome to It Girls Todo App Tutorial!
 
-Visit our [Youtube Channel](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH38RqQ) to watch the video which goes with this code.
+Besök vår [Youtube-kanal](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH38RqQ) för att titta på videon med instruktioner kring koden.
 
-## Available Scripts
+## Detta behöver du
+- Helst en Mac-dator (instruktionerna är skrivna för det)
+- Terminal (program som ser ut som en svart ruta och som finns på varje dator)
+- Chrome Browser
 
-In the project directory, you can run:
+## Installera det du behöver på din dator
+1. Ladda ner ett program för att skriva koden i - t.ex. [VS Code](https://code.visualstudio.com/).
+2. Installera Node och npm genom att använda Homebrew (för Mac). Följ dessa [instruktioner](https://code.visualstudio.com/). Du ska alltså kopiera det som står i de svarta rutorna och klistra in i datorns Terminal en och en. Kör raderna genom att klicka Enter och vänta tills de har kört klart innan du kör nästa rad.
+3. När du har kört sista raden (`npm install -g grunt-cli`) är du redo att skapa din app. Använd dessa [instruktioner](https://reactjs.org/docs/create-a-new-react-app.html) och kör det som står i den svarta rutan i Terminalen.
+4. Öppna mappen med namnet som du valde i föregående steg (troligen `my-app`) i VSCode som du laddade ner i steg 1.
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Nu är du redo att bygga en Todo-app - eller något annat kul som du vill testa.
