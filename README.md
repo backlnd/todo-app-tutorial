@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Välkommen till It Girls Todo App Tutorial!
 
-Besök vår [Youtube-kanal](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH38RqQ) för att titta på videon med instruktioner kring koden.
+Besök vår [Youtube-kanal](https://www.youtube.com/watch?v=nTtFM78mhFI) för att titta på videon med instruktioner kring koden.
 
 ## Detta behöver du
 - Helst en Mac-dator (instruktionerna är skrivna för det)
