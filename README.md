@@ -14,6 +14,6 @@ Besök vår [Youtube-kanal](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH3
 2. Installera Node och npm genom att använda Homebrew (för Mac). Följ dessa [instruktioner](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x). Du ska alltså kopiera det som står i de svarta rutorna och klistra in i datorns Terminal en och en. Kör raderna genom att klicka Enter och vänta tills de har kört klart innan du kör nästa rad.
 3. När du har kört sista raden (`npm install -g grunt-cli`) är du redo att skapa din app. Använd dessa [instruktioner](https://reactjs.org/docs/create-a-new-react-app.html) och kör det som står i den svarta rutan i Terminalen.
 4. Öppna mappen med namnet som du valde i föregående steg (troligen `my-app`) i VSCode som du laddade ner i steg 1.
-5. Ladda ner filen [List.css](src/List.css) och lägg till den bredvid App.js och de andra filerna i mappen.
+5. Skapa en ny fil som heter List.css i `/src`-mappen och klistra in koden som står [här](src/List.css) där.
 
 Nu är du redo att bygga en Todo-app - eller något annat kul som du vill testa.
