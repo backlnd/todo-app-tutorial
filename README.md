@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Welcome to It Girls Todo App Tutorial!
+# Välkommen till It Girls Todo App Tutorial!
 
 Besök vår [Youtube-kanal](https://www.youtube.com/channel/UCqPaUDw03ueXFpYnjH38RqQ) för att titta på videon med instruktioner kring koden.
 
